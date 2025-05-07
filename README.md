@@ -32,13 +32,14 @@ We extended our pipeline for real-time pose prediction using webcam input:
 ## 📁 Project Structure
 
 
+**
 ├── BaselineModel.ipynb
 ├── Improvement1.ipynb
 ├── Improvement2.ipynb     #main final model
 ├── pose_transformer.pth   #saved model
 ├── real_time_bjj_detection.ipynb
 ├── README.md
-└── requirements.txt
+└── requirements.txt**
 
 
 ## 📈 Results
