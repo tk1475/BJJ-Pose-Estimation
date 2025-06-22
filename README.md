@@ -34,7 +34,6 @@ We extended our pipeline for real-time pose prediction using webcam input:
 ## 📈 Results
 
 - **Test Accuracy**: 97%
-- **Confusion Matrix**: Available in `results/`
 - **Qualitative Visualizations**: Overlays of predicted vs actual classes with confidence.
 
 ##  Experiments Summary
